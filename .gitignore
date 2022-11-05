@@ -1,0 +1,5 @@
+/node_modules
+/dist
+/storybook-static
+/*lock
+/package-lock.json
