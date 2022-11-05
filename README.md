@@ -1,10 +1,10 @@
-# fxgcomponents_blcav001 - Storybook
+# Librairie de composants React
 
-***
+-------
 
 ## Collaboration
 
-Ce projet a été créé par Constance et Blandine CAVIGNAUX.
+Ce projet a été créé CoCav et Blcav.
 
 ## Description
 
