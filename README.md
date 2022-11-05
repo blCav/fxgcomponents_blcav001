@@ -1,6 +1,5 @@
-# fxgcomponents_blcav001
+# fxgcomponents_blcav001 - Storybook
 
-# TP1 - Storybook
 ***
 
 ## Collaboration
