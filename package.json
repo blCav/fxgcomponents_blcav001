@@ -1,7 +1,7 @@
 {
-  "name": "component-library-fxgarneau",
+  "name": "fxgcomponents_blcav011",
   "version": "1.0.0",
-  "description": "420-314-A22-FX - Exemple",
+  "description": "React Component Library",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "build-storybook": "build-storybook",
     "build-lib": "rollup -c"
   },
-  "author": "Pierre-Luc Dube",
+  "author": "blcav001",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.16.7",
