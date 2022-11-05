@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 
-import { MyDivider } from "../components/Divider";
+import { MyDivider } from "../lib/components/Divider";
 
 export default {
     title: "Components-TP1/Divider",

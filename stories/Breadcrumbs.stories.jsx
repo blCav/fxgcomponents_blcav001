@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 
-import { MyBasicBreadcrumbs } from "../components/Breadcrumbs/Breadcrumbs";
+import { MyBasicBreadcrumbs } from "../lib/components/Breadcrumbs/Breadcrumbs";
 
 export default {
   title: "Components-TP1/Breadcrumbs",

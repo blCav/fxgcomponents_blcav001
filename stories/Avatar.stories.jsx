@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 
-import { MyAvatar } from "../components/Avatar/Avatar";
+import { MyAvatar } from "../lib/components/Avatar/Avatar";
 
 export default {
   title: "Components-TP1/Avatar",

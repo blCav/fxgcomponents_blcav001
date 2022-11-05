@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 
-import { MyPopover} from "../components/Popover/Popover";
+import { MyPopover} from "../lib/components/Popover/Popover";
 
 export default {
     title: "Components-TP1/Popover",

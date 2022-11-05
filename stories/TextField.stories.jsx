@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 
-import { MyTextField } from "../components/TextField/TextField";
+import { MyTextField } from "../lib/components/TextField/TextField";
 
 export default {
   title: "Components-TP1/TextField",
@@ -40,7 +40,6 @@ export default {
     },
   },
 };
-
 
 const Template = (args) => <MyTextField {...args} />;
 

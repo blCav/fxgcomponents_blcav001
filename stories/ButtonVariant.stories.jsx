@@ -2,7 +2,7 @@ import React from "react";
 import "./style.css";
 
 import { ButtonVariant
- } from "../components/ButtonVariant/ButtonVariant";
+ } from "../lib/components/ButtonVariant/ButtonVariant";
 
 export default {
   title: "Components-TP1/ButtonVariant",

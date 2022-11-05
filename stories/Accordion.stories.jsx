@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 
-import { Accordion } from "../components/Accordion/Accordion";
+import { Accordion } from "../lib/components/Accordion/Accordion";
 
 export default {
   title: "Components-TP1/Accordion",

@@ -1,7 +1,7 @@
 import React from 'react';
 import './style.css'
 
-import { Collection } from '../components/Collection/Collection';
+import { Collection } from '../lib/components/Collection/Collection';
 
 export default {
   title: 'Components-TP1/Collection',

@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 
-import { TextFieldVariant } from "../components/TextFieldVariant/TextFieldVariant";
+import { TextFieldVariant } from "../lib/components/TextFieldVariant/TextFieldVariant";
 
 export default {
   title: "Components-TP1/TextFieldVariant",

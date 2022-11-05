@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 
-import { MyCard } from "../components/Card/Card";
+import { MyCard } from "../lib/components/Card/Card";
 
 export default {
   title: "Components-TP1/Card",
