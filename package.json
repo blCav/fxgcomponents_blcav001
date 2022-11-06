@@ -13,6 +13,14 @@
     "build-storybook": "build-storybook",
     "build-lib": "rollup -c"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blCav/fxgcomponents_blcav001.git"
+  },
+  "keywords": [
+    "React",
+    "Components"
+  ],
   "author": "blcav001",
   "license": "MIT",
   "devDependencies": {
