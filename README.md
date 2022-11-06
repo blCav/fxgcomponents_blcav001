@@ -1,7 +1,5 @@
 # Librairie de composants React
 
--------
-
 ## Collaboration
 
 Ce projet a été créé CoCav et Blcav.
