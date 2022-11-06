@@ -48,6 +48,6 @@ jobs:
         username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
         local-dir: ./storybook-static/
-        server-dir: public_html/storybook/
+        server-dir: public_html/storybook
         protocol: ftps
         port: 21
