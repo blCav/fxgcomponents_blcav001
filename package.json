@@ -1,6 +1,6 @@
 {
   "name": "fxgcomponents_blcav011",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "React Component Library",
   "main": "./lib/index.js",
   "files": [
