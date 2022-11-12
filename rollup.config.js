@@ -13,10 +13,6 @@ export default [
     output: [
       {
         file: 'index.js',
-        format: 'cjs',
-      },
-      {
-        file: 'index.es.js',
         format: 'es',
         exports: 'named',
       }
