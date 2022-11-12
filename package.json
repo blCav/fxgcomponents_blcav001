@@ -2,8 +2,10 @@
   "name": "fxgcomponents_blcav011",
   "version": "1.0.19",
   "description": "React Component Library",
-  "main": "./dist/index.es.js",
-  "module": "dist/index.es.js",
+  "main": "./lib/index.js",
+  "files": [
+    "/dist/index.es.js"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "start-storybook -p 6006",
