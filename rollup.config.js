@@ -12,7 +12,7 @@ export default [
     input: './lib/index.js',
     output: [
       {
-        file: 'index.js',
+        file: './index.js',
         format: 'es',
         exports: 'named',
       }
