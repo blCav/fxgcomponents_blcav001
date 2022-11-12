@@ -51,3 +51,9 @@ Large.args = {
   size: "large",
   label: "Large",
 };
+
+export const Patate = Template.bind({});
+Patate.args = {
+  size: "large",
+  label: "Patate",
+};
