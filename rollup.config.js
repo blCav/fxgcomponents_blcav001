@@ -9,7 +9,7 @@ import ReactDOM from 'react-dom';
 
 export default [
   {
-    input: './src/index.js',
+    input: './lib/index.js',
     output: [
       {
         file: 'dist/index.js',
