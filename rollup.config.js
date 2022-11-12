@@ -12,11 +12,11 @@ export default [
     input: './lib/index.js',
     output: [
       {
-        file: 'dist/index.js',
+        file: 'index.js',
         format: 'cjs',
       },
       {
-        file: 'dist/index.es.js',
+        file: 'index.es.js',
         format: 'es',
         exports: 'named',
       }
