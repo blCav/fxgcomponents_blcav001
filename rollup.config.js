@@ -13,8 +13,7 @@ export default [
     output: [
       {
         file: 'index.js',
-        format: 'es',
-        exports: 'named',
+        format: 'cjs'
       }
     ],
     plugins: [
