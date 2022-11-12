@@ -4,7 +4,7 @@
   "description": "React Component Library",
   "main": "./lib/index.js",
   "files": [
-    "/dist/index.es.js"
+    "/index.es.js"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
